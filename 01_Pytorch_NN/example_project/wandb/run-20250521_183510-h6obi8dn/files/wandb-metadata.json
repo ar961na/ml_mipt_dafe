@@ -1,0 +1,31 @@
+{
+  "os": "Linux-6.8.0-1027-azure-x86_64-with-glibc2.31",
+  "python": "CPython 3.10.17",
+  "startedAt": "2025-05-21T18:35:10.978373Z",
+  "program": "/workspaces/ml_mipt_dafe/01_Pytorch_NN/example_project/train.py",
+  "codePath": "01_Pytorch_NN/example_project/train.py",
+  "git": {
+    "remote": "https://github.com/ar961na/ml_mipt_dafe",
+    "commit": "1648ce2f23dc158b73732eb7d3585cacd98fa0ad"
+  },
+  "email": "bairova.at@phystech.edu",
+  "root": "/workspaces/ml_mipt_dafe/01_Pytorch_NN/example_project",
+  "host": "codespaces-c6d76e",
+  "executable": "/usr/local/bin/python",
+  "codePathLocal": "train.py",
+  "cpu_count": 1,
+  "cpu_count_logical": 2,
+  "disk": {
+    "/": {
+      "total": "33636024320",
+      "used": "20218155008"
+    }
+  },
+  "memory": {
+    "total": "8323264512"
+  },
+  "cpu": {
+    "count": 1,
+    "countLogical": 2
+  }
+}
